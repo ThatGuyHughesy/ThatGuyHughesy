@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Conor</h1>
-<h3 align="center">Senior Full Stack Developer from Dublin, Ireland 🇮🇪</h3>
+<h3 align="center">I design, build and ship full-stack products</h3>
 
-- 💼 Senior Backend Engineer at <a href="https://workday.com" target="blank">Workday</a>
+💼 Senior Backend Engineer at <a href="https://workday.com" target="blank">Workday</a>
 
-- 💻 Current tech stack is TypeScript, React, PostgreSQL, AWS
+💻 Building backend-heavy products with Node.js (TypeScript), React, PostgreSQL, AWS
 
-- 📚 Experience with Node.js, Vue.js, Clojure, Java, ClojureScript, Elasticsearch, Kafka
+📚 Experience across Vue.js, Clojure, Java, Elasticsearch - and more
 
-- 🌱 I’m currently learning Python
+🌱 Exploring SwiftUI & native iOS development
